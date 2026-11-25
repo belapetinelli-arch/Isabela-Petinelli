@@ -1,4 +1,4 @@
-# Olá! Sou Isabela Petinelli 
+## Olá! Sou Isabela Petinelli 
 
 ### Data Analytics | Business Intelligence | Financial Analytics
 
